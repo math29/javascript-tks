@@ -1,2 +1,6 @@
-# JavaScript Objects, Prototypes and Classes
-This is the demo code for the Pluralsight course at https://app.pluralsight.com/courses/javascript-objects-prototypes-and-classes
+# JavaScript TKS
+This TKS aims at taking a look back to Javascript basics
+
+## How to start this TKS?
+
+Open `demo.html` in your browser -> start editing `demo.js`! 
